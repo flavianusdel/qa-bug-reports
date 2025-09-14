@@ -9,6 +9,4 @@ Each bug report includes:
 - Screenshot (if available)  
 
 Contents:  
-- `BR-001_checkout-button.md`  
-- `BR-002_api-response-error.md`  
-- `/screenshots` → image evidence for bugs  
+- `Bug Reports - DemoBlaze.com` → bug report for all possible bug listed in Demoblaze.com
